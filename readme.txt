@@ -1,0 +1,1 @@
+A barebones template for writing fiction in latex. Not much else here.
